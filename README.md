@@ -18,16 +18,16 @@ This program Covers:
 
 ## Courses in this Program
 
-1) [Data Science Orientation](./01%20-%20PH125.1x%20-%20R%20Basics)
-2) [Querying Data with Transact-SQL](./02%20-%20PH125.2x%20-%20Visualization)
-3) [Analazying and Visualizing Data with Excel](./03%20-%20PH125.3x%20-%20Probability)
-4) [Essential Statistics for Data Analysis using Excel](./04%20-%20PH125.4x%20-%20Inference%20and%20Modelling)
-5) [Introduction to Python for Data Science](./05%20-%20PH125.5x%20-%20Productivity%20Tools)
-6) [Data Science Essentials](./06%20-%20PH125.6x%20-%20Wrangling)
-7) [Principles of Machine Learning](./07%20-%20PH125.7x%20-%20Linear%20Regression)
-8) [Programming with Python for Data Science](./08%20-%20PH125.8x%20-%20Machine%20Learning)
-9) [Applied Machine Learning](./08%20-%20PH125.8x%20-%20Machine%20Learning)
-10) [Capstone](./09%20-%20PH125.9x%20-%20Capstone)
+1) [Data Science Orientation](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/01%20-%20DAT101x%20-%20Data%20Science%20Orientation)
+2) [Querying Data with Transact-SQL](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/02%20-%20DAT201x%20-%20Querying%20Data%20with%20Transact-SQL)
+3) [Analazying and Visualizing Data with Excel](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/03%20-%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excely)
+4) [Essential Statistics for Data Analysis using Excel](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/04%20-%20DAT222x%20-%20Essential%20Statistics%20for%20Data%20Analysis%20using%20Excel)
+5) [Introduction to Python for Data Science](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/05%20-%20DAT208x%20-%20Introduction%20to%20Python%20for%20Data%20Science)
+6) [Data Science Essentials](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/06%20-%20DAT203.1x%20-%20Data%20Science%20Essentials)
+7) [Principles of Machine Learning](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/07%20-%20DAT203.2x%20-%20Principles%20of%20Machine%20Learning)
+8) [Programming with Python for Data Science](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/08%20-%20DAT210x%20-%20Programming%20with%20Python%20for%20Data%20Science)
+9) [Applied Machine Learning](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/09%20-%20DAT203.3x%20-%20Applied%20Machine%20Learning)
+10) [Capstone](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/10%20-%20DAT102x%20-%20Microsoft%20Professional%20Capstone%20Data%20Science)
 
 <br/>
 

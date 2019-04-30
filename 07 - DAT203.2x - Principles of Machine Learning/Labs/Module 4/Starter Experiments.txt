@@ -1,0 +1,10 @@
+Exercise 1:
+R: https://aka.ms/edx-dat203.2x-lab4-class-r   
+Python: https://aka.ms/edx-dat203.2x-lab4-class-py
+
+Exercise 2:
+R: https://aka.ms/edx-dat203.2x-lab4-regr-r   
+Python: https://aka.ms/edx-dat203.2x-lab4-regr-py   
+
+
+

@@ -1,0 +1,51 @@
+CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,LastUpdated
+11219,NULL,Charles,NULL,Cook,NULL,6871 Bel Air Dr.,NULL,Woodburn,Oregon,United States,97071,755-555-0111,1970-12-02,High School,Skilled Manual,M,M,1,2,2,2,56100,2017-03-06
+11241,NULL,Lisa,NULL,Cai,NULL,"102, rue de Berri",NULL,Les Ulis,Essonne,France,91940,1 (11) 500 555-0125,1977-10-11,Partial College,Skilled Manual,F,S,1,0,0,0,61555,2017-03-06
+11352,NULL,Raymond,A,Rodriguez,NULL,"24, impasse Ste-Madeleine",NULL,Pantin,Seine Saint Denis,France,93500,1 (11) 500 555-0131,1960-03-07,Partial College,Clerical,M,M,1,3,0,2,83613,2017-03-06
+11904,NULL,Kaylee,NULL,Cook,NULL,5742 Curtis Drive,NULL,Geelong,Victoria,Australia,3220,1 (11) 500 555-0188,1989-11-09,Graduate Degree,Professional,F,S,1,2,0,0,130551,2017-03-06
+11908,NULL,Rafael,A,Tang,NULL,8839 Leonard Dr,NULL,South Melbourne,Victoria,Australia,3205,1 (11) 500 555-0157,1986-07-11,Graduate Degree,Professional,M,S,1,2,0,0,135915,2017-03-06
+12113,NULL,Nathan,B,Hughes,NULL,1771 Coastal Blvd.,NULL,Langford,British Columbia,Canada,V9,334-555-0173,1971-08-23,High School,Clerical,M,M,1,3,1,2,78868,2017-03-06
+12221,NULL,Brandi,NULL,Ruiz,NULL,"11, rue Saint Denis",NULL,Saint Germain en Laye,Yveline,France,78100,1 (11) 500 555-0113,1981-01-09,Graduate Degree,Clerical,F,M,1,2,0,2,78234,2017-03-06
+12286,NULL,Nathan,M,Jenkins,NULL,3093 Roland Drive,NULL,Peterborough,England,United Kingdom,PB12,1 (11) 500 555-0123,1989-09-06,Graduate Degree,Professional,M,S,1,2,0,0,137732,2017-03-06
+12292,NULL,Nicolas,R,Kumar,NULL,5703 Rose Dr,NULL,Berks,England,United Kingdom,SL4 1RH,1 (11) 500 555-0177,1964-03-24,Bachelors,Skilled Manual,M,M,1,1,0,2,59959,2017-03-06
+12305,NULL,Xavier,NULL,Bailey,NULL,6720 Bryce Dr.,NULL,Bury,England,United Kingdom,PE17,1 (11) 500 555-0129,1974-07-06,Partial College,Clerical,M,M,1,0,1,2,79735,2017-03-06
+12807,NULL,Nina,L,Kumar,NULL,Altendorfer Straße 5,NULL,Offenbach,Saarland,Germany,63009,1 (11) 500 555-0115,1988-08-04,Graduate Degree,Skilled Manual,F,S,0,1,0,0,52180,2017-03-06
+12820,NULL,Derek,L,Tang,NULL,"421, rue Léo Delibes",NULL,Orleans,Loiret,France,45000,1 (11) 500 555-0195,1986-02-09,High School,Manual,M,S,0,1,0,0,36185,2017-03-06
+12892,NULL,Brian,NULL,Peterson,NULL,1284 Poppy Pl.,NULL,Royal Oak,British Columbia,Canada,V8X,427-555-0137,1992-04-10,Graduate Degree,Professional,M,M,1,2,0,0,135404,2017-03-06
+13310,NULL,Miguel,D,Barnes,NULL,4071 Hames Dr.,NULL,Puyallup,Washington,United States,98371,951-555-0191,1980-11-18,Partial College,Skilled Manual,M,M,1,1,1,2,60779,2017-03-06
+13349,NULL,Kaitlyn,A,Gonzalez,NULL,2416 Kaski Ln.,NULL,Newport Beach,California,United States,92625,698-555-0190,1963-10-06,Bachelors,Clerical,F,M,1,2,2,2,78341,2017-03-06
+13482,NULL,Haley,NULL,Bryant,NULL,9990 Sunny Ave,NULL,Berkeley,California,United States,94704,344-555-0198,1972-09-19,Partial College,Skilled Manual,F,M,1,2,1,2,55450,2017-03-06
+13640,NULL,Rachael,G,Patel,NULL,9815 Marlboro Court,NULL,East Brisbane,Queensland,Australia,4169,1 (11) 500 555-0167,1991-04-17,High School,Skilled Manual,F,M,0,2,1,2,60279,2017-03-06
+13838,NULL,Jill,NULL,Rubio,NULL,1153 Loma Linda,NULL,Oxford,England,United Kingdom,OX14 4SE,1 (11) 500 555-0160,1996-06-27,Partial College,Skilled Manual,F,S,0,0,0,0,59415,2017-03-06
+14320,NULL,Amy,NULL,Hu,NULL,9362 Akyn Rock Drive,NULL,Perth,South Australia,Australia,6006,1 (11) 500 555-0146,1981-02-04,Partial College,Clerical,F,M,1,3,0,2,85799,2017-03-06
+14327,NULL,Kyle,B,Butler,NULL,4844 Spring Water St,NULL,Downey,California,United States,90241,781-555-0134,1996-02-19,High School,Clerical,M,S,0,1,0,0,87699,2017-03-06
+14380,NULL,Kaylee,K,Watson,NULL,1752 Amaryllis Drive,NULL,Lebanon,Oregon,United States,97355,120-555-0165,1964-07-11,Bachelors,Clerical,F,M,1,2,1,2,85379,2017-03-06
+14477,NULL,Lauren,D,Lee,NULL,3543 Hilton Way,NULL,Santa Cruz,California,United States,95062,181-555-0113,1975-08-07,High School,Skilled Manual,F,S,1,2,0,0,51348,2017-03-06
+14564,NULL,Chloe,L,Bailey,NULL,9913 Mt. Whitney Way,NULL,San Diego,California,United States,92102,612-555-0181,1989-02-03,Bachelors,Manual,F,M,0,0,0,2,33859,2017-03-06
+14652,NULL,Russell,S,Luo,NULL,2874 Via Del Verdes,NULL,Beverly Hills,California,United States,90210,646-555-0172,1980-12-02,Partial College,Management,M,M,1,2,2,2,108793,2017-03-06
+14698,NULL,Diane,NULL,Navarro,NULL,Potsdamer Straße 92324,NULL,Frankfurt am Main,Saarland,Germany,60061,1 (11) 500 555-0168,1993-10-13,Bachelors,Management,F,M,1,3,0,0,104040,2017-03-06
+14778,NULL,Renee,NULL,Jimenez,NULL,2941 Jill Ave,NULL,Lancaster,England,United Kingdom,LA1 1LN,1 (11) 500 555-0140,1987-06-21,Partial High School,Skilled Manual,F,S,0,1,0,0,58880,2017-03-06
+15085,NULL,Kristin,H,Jai,NULL,"88, impasse Notre-Dame",NULL,Morangis,Essonne,France,91420,1 (11) 500 555-0113,1989-07-02,Graduate Degree,Professional,F,S,1,0,0,0,129319,2017-03-06
+15177,NULL,Jorge,W,Lu,NULL,9314 Indianhead Way,NULL,Concord,California,United States,94519,117-555-0110,1993-08-19,Partial College,Management,M,S,0,2,0,0,112995,2017-03-06
+15388,NULL,Victoria,NULL,Smith,NULL,581 Roanoke Dr.,NULL,Downey,California,United States,90241,254-555-0158,1981-01-19,Bachelors,Clerical,F,M,1,2,1,1,80944,2017-03-06
+15464,NULL,Kristi,NULL,Blanco,NULL,6027 Lisa Ann Street,NULL,East Brisbane,Queensland,Australia,4169,1 (11) 500 555-0142,2000-04-04,Partial College,Clerical,F,M,0,3,0,0,86141,2017-03-06
+15573,NULL,Thomas,E,Wilson,NULL,6853 Hacienda,NULL,Redmond,Washington,United States,98052,466-555-0174,1978-08-25,Bachelors,Clerical,M,S,1,1,0,0,87127,2017-03-06
+15626,NULL,Eduardo,F,White,NULL,Parkstr 851,NULL,Bottrop,Nordrhein-Westfalen,Germany,46236,1 (11) 500 555-0178,1992-07-23,Partial College,Skilled Manual,M,M,0,2,1,1,58121,2017-03-06
+15727,NULL,Alisha,A,Zeng,NULL,6173 Alier Drive,NULL,Matraville,New South Wales,Australia,2036,1 (11) 500 555-0143,1992-05-03,Bachelors,Management,F,M,1,1,1,2,111985,2017-03-06
+15738,NULL,Abigail,NULL,Miller,NULL,5919 Zartop Street,NULL,Torrance,California,United States,90505,698-555-0175,1961-07-23,Graduate Degree,Professional,F,M,1,2,2,2,131812,2017-03-06
+15866,NULL,Abigail,T,White,NULL,2506 Almaden Dr.,NULL,N. Vancouver,British Columbia,Canada,V7L 4J4,215-555-0122,1991-01-03,Graduate Degree,Manual,F,S,0,1,0,0,28050,2017-03-06
+15875,NULL,Devin,NULL,Morris,NULL,2972 Hamiliton Ave.,NULL,Santa Monica,California,United States,90401,585-555-0177,1964-02-17,Bachelors,Skilled Manual,M,M,1,1,1,2,57462,2017-03-06
+16184,NULL,Christine,NULL,She,NULL,4164 Kenneth Ct.,NULL,Brisbane,Queensland,Australia,4000,1 (11) 500 555-0198,1984-06-06,Bachelors,Skilled Manual,F,M,1,0,1,2,55963,2017-03-06
+16394,NULL,Bryan,C,Bell,NULL,"34, place Beaubernard",NULL,Lille,Nord,France,59000,1 (11) 500 555-0171,1987-06-07,High School,Manual,M,S,0,1,0,0,33328,2017-03-06
+16575,NULL,Veronica,G,Vance,NULL,6807 Snowberry Court,NULL,Milton Keynes,England,United Kingdom,MK8 8DF,1 (11) 500 555-0112,1964-09-03,Graduate Degree,Professional,F,S,1,3,0,1,132126,2017-03-06
+17536,NULL,Benjamin,L,Robinson,NULL,9615 Pacheco Street,NULL,El Cajon,California,United States,92020,157-555-0146,1985-08-22,Bachelors,Skilled Manual,M,S,0,2,0,0,54060,2017-03-06
+17605,NULL,Jon,NULL,Ma,NULL,9095 Ironwood Drive,NULL,Bellflower,California,United States,90706,556-555-0177,1989-03-23,Graduate Degree,Management,M,M,1,1,1,2,112237,2017-03-06
+17723,NULL,Johnathan,NULL,Malhotra,NULL,3141 Gingham Way,NULL,Gloucestershire,England,United Kingdom,GL7 1RY,1 (11) 500 555-0117,1962-10-09,Bachelors,Management,M,M,1,3,0,2,113395,2017-03-06
+17726,NULL,Caroline,NULL,Griffin,NULL,5126 La Corte Bonita,NULL,Melton,Victoria,Australia,3337,1 (11) 500 555-0117,2000-09-20,Partial College,Skilled Manual,F,S,0,0,0,0,56198,2017-03-06
+18171,NULL,Alejandro,J,Zeng,NULL,Parkstr 4841,NULL,Stuttgart,Saarland,Germany,70511,1 (11) 500 555-0124,1971-04-03,Partial College,Manual,M,M,1,1,0,2,26822,2017-03-06
+18345,NULL,Samantha,NULL,Bryant,NULL,5065 Fairfield Ave,NULL,Metchosin,British Columbia,Canada,V9,161-555-0187,1995-09-19,High School,Manual,F,M,0,0,0,0,36055,2017-03-06
+18382,NULL,Isabella,NULL,Garcia,NULL,2505 Maywood Ln.,NULL,Langley,British Columbia,Canada,V3A 4R2,672-555-0130,1983-02-06,Partial College,Skilled Manual,F,M,1,2,0,1,57165,2017-03-06
+18842,NULL,James,M,Gonzalez,NULL,8521 C Mt. Hood Circle,NULL,Victoria,British Columbia,Canada,V8V,167-555-0196,1956-07-08,Partial College,Clerical,M,S,1,1,1,1,87283,2017-03-06
+18956,NULL,Sara,W,Howard,NULL,4730 Peterson Place,NULL,San Carlos,California,United States,94070,141-555-0158,1982-04-17,Bachelors,Skilled Manual,F,S,0,1,0,0,54423,2017-03-06
+19019,NULL,Jackson,NULL,Gonzales,NULL,4446 Walnut Lane,NULL,Palo Alto,California,United States,94303,893-555-0174,1971-09-09,Partial College,Skilled Manual,M,M,1,1,1,2,60256,2017-03-06
+19315,NULL,Devon,C,Sharma,NULL,3450 Villageoaks Dr.,NULL,Pantin,Seine Saint Denis,France,93500,1 (11) 500 555-0126,1987-09-03,Partial College,Clerical,M,S,0,3,0,0,83832,2017-03-06

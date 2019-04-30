@@ -1,0 +1,26 @@
+CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,LastUpdated
+11908,NULL,Rafael,A,Tang,NULL,8839 Leonard Dr,NULL,South Melbourne,Victoria,Australia,3205,1 (11) 500 555-0157,1986-07-11,Graduate Degree,Professional,M,S,1,2,0,0,135915,2017-03-06
+12286,NULL,Nathan,M,Jenkins,NULL,3093 Roland Drive,NULL,Peterborough,England,United Kingdom,PB12,1 (11) 500 555-0123,1989-09-06,Graduate Degree,Professional,M,S,1,2,0,0,137732,2017-03-06
+12892,NULL,Brian,NULL,Peterson,NULL,1284 Poppy Pl.,NULL,Royal Oak,British Columbia,Canada,V8X,427-555-0137,1992-04-10,Graduate Degree,Professional,M,M,1,2,0,0,135404,2017-03-06
+14698,NULL,Diane,NULL,Navarro,NULL,Potsdamer Straße 92324,NULL,Frankfurt am Main,Saarland,Germany,60061,1 (11) 500 555-0168,1993-10-13,Bachelors,Management,F,M,1,3,0,0,104040,2017-03-06
+15085,NULL,Kristin,H,Jai,NULL,"88, impasse Notre-Dame",NULL,Morangis,Essonne,France,91420,1 (11) 500 555-0113,1989-07-02,Graduate Degree,Professional,F,S,1,0,0,0,129319,2017-03-06
+15727,NULL,Alisha,A,Zeng,NULL,6173 Alier Drive,NULL,Matraville,New South Wales,Australia,2036,1 (11) 500 555-0143,1992-05-03,Bachelors,Management,F,M,1,1,1,2,111985,2017-03-06
+17418,NULL,Victoria,NULL,Ramirez,NULL,5245 Fraga Court,NULL,Burlingame,California,United States,94010,810-555-0140,1983-02-13,Bachelors,Professional,F,M,1,3,0,0,136717,2017-03-06
+17723,NULL,Johnathan,NULL,Malhotra,NULL,3141 Gingham Way,NULL,Gloucestershire,England,United Kingdom,GL7 1RY,1 (11) 500 555-0117,1962-10-09,Bachelors,Management,M,M,1,3,0,2,113395,2017-03-06
+18644,NULL,Carrie,D,Ruiz,NULL,3300 Country View Lane,NULL,Cliffside,British Columbia,Canada,V8Y 1L1,966-555-0146,1986-02-15,Graduate Degree,Management,F,S,1,2,0,0,106191,2017-03-06
+19218,NULL,Nathaniel,V,Brooks,NULL,2131 Covington Court,NULL,Chula Vista,California,United States,91910,934-555-0180,1976-10-10,Partial College,Skilled Manual,M,M,1,2,1,1,56412,2017-03-06
+20671,NULL,Ronald,NULL,Sanchez,NULL,182 Perry Way,NULL,Berkeley,California,United States,94704,187-555-0159,1990-02-13,Graduate Degree,Management,M,M,1,2,2,2,110926,2017-03-06
+20697,NULL,Stefanie,R,Schmidt,NULL,1147 Delta Way,NULL,Beverly Hills,California,United States,90210,311-555-0181,1984-12-26,Bachelors,Professional,F,M,1,1,0,1,132424,2017-03-06
+20734,NULL,Luis,G,Phillips,NULL,2156 Temple Court,NULL,Langford,British Columbia,Canada,V9,520-555-0148,1994-07-17,Graduate Degree,Management,M,M,1,3,0,0,109408,2017-03-06
+20812,NULL,Preston,C,Prasad,NULL,4222 San Jose Dr.,NULL,North Sydney,New South Wales,Australia,2055,1 (11) 500 555-0119,2000-02-17,Partial College,Clerical,M,S,0,1,0,0,78083,2017-03-06
+23244,NULL,Alexandra,E,Wagner,NULL,9312 Corte Del Sol,NULL,Shawnee,British Columbia,Canada,V9B 2C3,649-555-0121,1986-06-07,Graduate Degree,Professional,F,S,1,3,0,0,135288,2017-03-06
+23454,NULL,Ryan,D,Wang,NULL,8834 Firestone Drive,NULL,Santa Monica,California,United States,90401,418-555-0156,1977-10-03,Partial College,Skilled Manual,M,S,1,0,0,0,58359,2017-03-06
+24420,NULL,Marcus,R,Price,NULL,719 William Way,NULL,Puyallup,Washington,United States,98371,561-555-0129,1975-10-27,Partial College,Management,M,M,1,1,1,2,112692,2017-03-06
+25193,NULL,Stephanie,A,Howard,NULL,8850 Via Del Sol,NULL,Lynnwood,Washington,United States,98036,886-555-0125,1980-10-08,High School,Clerical,F,S,1,2,0,0,80506,2017-03-06
+25793,NULL,Ann,C,Rana,NULL,Heidestieg Straße 8224,NULL,Hannover,Nordrhein-Westfalen,Germany,30601,1 (11) 500 555-0154,1973-08-17,Partial College,Clerical,F,M,1,3,1,1,78813,2017-03-06
+26410,NULL,Franklin,E,Goel,NULL,"2155, avenue Foch",NULL,Saint Germain en Laye,Yveline,France,78100,1 (11) 500 555-0193,1970-05-10,High School,Skilled Manual,M,S,1,1,0,0,55332,2017-03-06
+26694,NULL,Aaron,J,Hughes,NULL,3566 Matterhorn Ct,NULL,Bellingham,Washington,United States,98225,622-555-0113,1976-06-20,Partial College,Manual,M,S,0,1,0,0,36385,2017-03-06
+28096,NULL,Alexandra,S,Stewart,NULL,5935 Isabel,NULL,Berkeley,California,United States,94704,125-555-0117,1998-11-19,Partial College,Management,F,M,0,1,0,0,107827,2017-03-06
+28676,NULL,Alex,L,Bailey,NULL,215 Denkinger Court,NULL,Burbank,California,United States,91502,626-555-0166,1987-10-20,Bachelors,Management,M,S,1,2,0,0,103449,2017-03-06
+29015,NULL,Trinity,Y,Murphy,NULL,2745 Mt. Dias Blvd.,NULL,Issaquah,Washington,United States,98027,737-555-0136,1970-02-03,Partial College,Management,F,M,1,2,2,2,104116,2017-03-06
+29377,NULL,Rebekah,NULL,Carlson,NULL,1869 Pine Hallow Rd.,NULL,Saarlouis,Saarland,Germany,66740,1 (11) 500 555-0154,1985-08-27,Bachelors,Management,F,M,1,1,1,1,109156,2017-03-06

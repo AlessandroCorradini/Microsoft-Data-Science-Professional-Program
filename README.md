@@ -20,7 +20,7 @@ This program Covers:
 
 1) [Data Science Orientation](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/01%20-%20DAT101x%20-%20Data%20Science%20Orientation)
 2) [Querying Data with Transact-SQL](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/02%20-%20DAT201x%20-%20Querying%20Data%20with%20Transact-SQL)
-3) [Analazying and Visualizing Data with Excel](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/03%20-%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excely)
+3) [Analazying and Visualizing Data with Excel](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/03%20-%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excel)
 4) [Essential Statistics for Data Analysis using Excel](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/04%20-%20DAT222x%20-%20Essential%20Statistics%20for%20Data%20Analysis%20using%20Excel)
 5) [Introduction to Python for Data Science](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/05%20-%20DAT208x%20-%20Introduction%20to%20Python%20for%20Data%20Science)
 6) [Data Science Essentials](https://github.com/AlessandroCorradini/Microsoft-Data-Science-Professional-Program/tree/master/06%20-%20DAT203.1x%20-%20Data%20Science%20Essentials)
